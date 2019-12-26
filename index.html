@@ -1,0 +1,41 @@
+<!-- 
+    author: ravenmyst
+    date: 12/20/2019
+    description: Bootstrap + fontawesome funded Jeopardy fun for everyone based on JSON.
+-->
+
+<html>
+	<head>
+        <title>Jeopardy 0.0.1</title>
+        <meta name="mobile-web-app-capable" content="yes" charset="utf-8">
+		<!--- js --->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/jeopardy.min.js"></script>
+
+        <!--- css --->
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="assets/css/fontawesome.min.css">
+		<link rel="stylesheet" href="assets/css/brands.min.css">
+		<link rel="stylesheet" href="assets/css/solid.min.css">
+		<link rel="stylesheet" href="assets/css/regular.min.css">
+        <link rel="stylesheet" href="assets/css/duotone.min.css">
+		<link rel="stylesheet" href="assets/css/jeopardy.min.css" />
+		
+		<link rel="shortcut icon" href="assets/img/favicon.ico" />
+	</head>
+
+	<body>
+		<div id="site_container_div" class="container">
+			<div class="row" id="theLoadDiv">
+				<div class="col-sm unselectable" style="text-align: center; margin-top: 20%;">
+					<div class="spinner-grow" role="status"></div> Loading . . . 
+				</div>
+			</div>
+			<div id="gameBoardDiv" class="hideByDefault"></div>
+			<div id="questionDiv" class="hideByDefault"></div>
+		</div>
+	</body>
+
+</html>

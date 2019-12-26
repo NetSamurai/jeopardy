@@ -1,0 +1,142 @@
+[
+    {
+        "question_id": 10,
+        "category_id": 1,
+        "points": 200,
+        "question_text": "According to the folklore of Austria and other countries, what horned figure punishes naughty children at Christmastime?",
+        "question_answer": "Krampus"
+    },
+    {
+        "question_id": 11,
+        "category_id": 2,
+        "points": 200,
+        "question_text": "Per a recent holiday fad, what “spy” hides around the house, reporting back to Santa on who has been naughty and nice?",
+        "question_answer": "The Elf on the Shelf"
+    },
+    {
+        "question_id": 12,
+        "category_id": 3,
+        "points": 200,
+        "question_text": "Who created the first electric light Christmas display?",
+        "question_answer": "Thomas Edison"
+    },
+    {
+        "question_id": 13,
+        "category_id": 4,
+        "points": 200,
+        "question_text": "In the song Twelve Days of Christmas, what is given on the 7th day?",
+        "question_answer": "Swans a-swimming"
+    },
+    {
+        "question_id": 14,
+        "category_id": 5,
+        "points": 200,
+        "question_text": " What much-reviled Christmas edible is known for its long shelf life?",
+        "question_answer": "Fruitcake"
+    },
+    {
+        "question_id": 20,
+        "category_id": 1,
+        "points": 400,
+        "question_text": "What country is the Poinsettia, with its red and green foliage, native to?",
+        "question_answer": "Mexico"
+    },
+    {
+        "question_id": 21,
+        "category_id": 2,
+        "points": 400,
+        "question_text": "What traditional Christmas decoration is actually a parasitic plant?",
+        "question_answer": "Mistletoe"
+    },
+    {
+        "question_id": 22,
+        "category_id": 3,
+        "points": 400,
+        "question_text": "What is the best-selling Christmas song of all time?",
+        "question_answer": "White Christmas"
+    },
+    {
+        "question_id": 23,
+        "category_id": 4,
+        "points": 400,
+        "question_text": "Name the eight original Reindeer",
+        "question_answer": "Blitzen, Comet, Cupid, Dasher, Prancer, Vixen, Dancer, and Donner"
+    },
+    {
+        "question_id": 24,
+        "category_id": 5,
+        "points": 400,
+        "question_text": "Which country can be credited with the creation of the Christmas beverage, eggnog?",
+        "question_answer": "England"
+    },
+    {
+        "question_id": 30,
+        "category_id": 1,
+        "points": 600,
+        "question_text": "The French word “Noel” is often used around Christmas, but what was its original meaning in Latin?",
+        "question_answer": "Birth"
+    },
+    {
+        "question_id": 31,
+        "category_id": 2,
+        "points": 600,
+        "question_text": "What holiday movie sequel includes a cameo by Donald Trump?",
+        "question_answer": "Home Alone 2"
+    },
+    {
+        "question_id": 32,
+        "category_id": 3,
+        "points": 600,
+        "question_text": " In Charles Dickens' novel A Christmas Carol, what was Scrooge's first name?",
+        "question_answer": "Ebenezer"
+    },
+    {
+        "question_id": 33,
+        "category_id": 4,
+        "points": 600,
+        "question_text": "Elvis isn’t going to have a white Christmas he’s going to have a….",
+        "question_answer": "Blue Christmas"
+    },
+    {
+        "question_id": 34,
+        "category_id": 5,
+        "points": 600,
+        "question_text": "If your Christmas feast included fried fish, spinach and lettuce, what country would you be in?",
+        "question_answer": "Armenia"
+    },
+    {
+        "question_id": 40,
+        "category_id": 1,
+        "points": 800,
+        "question_text": "What is the most popular meal for Christmas in Japan?",
+        "question_answer": "KFC fried chicken"
+    },
+    {
+        "question_id": 41,
+        "category_id": 2,
+        "points": 800,
+        "question_text": "Which was the last state in the United States to declare Christmas a legal holiday?",
+        "question_answer": "Oklahoma"
+    },
+    {
+        "question_id": 42,
+        "category_id": 3,
+        "points": 800,
+        "question_text": "What company popularized the Santa Claus image we see today in their advertising?",
+        "question_answer": "Coca-Cola"
+    },
+    {
+        "question_id": 43,
+        "category_id": 4,
+        "points": 800,
+        "question_text": "Jingle bell time is a swell time...",
+        "question_answer": "To go riding iding in a one-horse sleigh"
+    },
+    {
+        "question_id": 44,
+        "category_id": 5,
+        "points": 800,
+        "question_text": "What popular holiday song was written during the Cuban missile crisis and was a plea for peace?",
+        "question_answer": "Do You Hear What I Hear?"
+    }
+]
